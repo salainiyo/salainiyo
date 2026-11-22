@@ -1,12 +1,33 @@
-Architectural Sovereignty | Systems & AI Engineering
+# Architectural Sovereignty | Systems & AI Engineering
 
-The Mission
+[![Trading Engine CI](https://github.com/salainiyo/public-trading-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/salainiyo/public-trading-engine)
+[![Cooperative CI](https://github.com/salainiyo/cooperative-system-management/actions/workflows/backend-ci.yml/badge.svg)](https://github.com/salainiyo/cooperative-system-management)
 
-I am an engineer focused on the transition from abstraction-reliant development to Architectural Sovereignty. I build high-integrity systems where every layer—from raw data ingestion to private AI orchestration—is understood "inside-out."
-The Engineering Mastery Journey
-I am currently executing a 15-phase curriculum to master the underlying logic of modern backends, computer vision, and autonomous agents.
+## Currently
 
-Journey → Projects
+Working through a 15-phase curriculum on the underlying logic of modern
+backends, data pipelines, computer vision and autonomous agents. The goal is
+systems where every layer is understood inside-out, not just wired together.
+
+## The Mission
+
+I am an engineer focused on the transition from abstraction-reliant development
+to Architectural Sovereignty. I build high-integrity systems where every layer—
+from raw data ingestion to private AI orchestration—is understood "inside-out."
+
+## Selected work
+
+- [public-trading-engine](https://github.com/salainiyo/public-trading-engine) —
+  single-strategy XAUUSD trading engine, prop-firm rulebooks, CI-only tests.
+- [cooperative-system-management](https://github.com/salainiyo/cooperative-system-management) —
+  full-stack financial platform with ledger-derived balances, Terraform/Ansible
+  deployment and Prometheus monitoring.
+- [auto-apply-alain](https://github.com/salainiyo/auto-apply-alain) —
+  job-application tracker with freshness monitoring and Gemini-based role extraction.
+- [engineering-mastery-journey](https://github.com/salainiyo/engineering-mastery-journey) —
+  the phase exercises behind the map below.
+
+## Journey → Projects
 
 Statuses are derived from code in the public repos: Covered / Partial / Planned.
 
@@ -28,18 +49,22 @@ Statuses are derived from code in the public repos: Covered / Partial / Planned.
 | 14 | Sovereign vision | — | Planned |
 | 15 | Orchestrated systems | — | Planned |
 
-Coverage: 9 covered, 1 partial, 5 planned. Full detail: [engineering-mastery-journey](https://github.com/salainiyo/engineering-mastery-journey).
+Coverage: 9 covered, 1 partial, 5 planned. Full detail:
+[engineering-mastery-journey](https://github.com/salainiyo/engineering-mastery-journey).
 
-Technical Arsenal
+## Technical Arsenal
 
-Core Systems  Python 3.12+ FastAPI SQLModel PostgreSQL Redis
-Operations & Logistics  Docker Terraform GitHub Actions Prometheus RabbitMQ
-Intelligence & Vision  PyTorch OpenCV LangChain ChromaDB Ollama (Private AI)
+- **Core systems:** Python 3.12+, FastAPI, SQLModel, PostgreSQL, Redis
+- **Operations:** Docker, Terraform, GitHub Actions, Prometheus, RabbitMQ
+- **Intelligence & vision:** PyTorch, OpenCV, LangChain, ChromaDB, Ollama
 
-Engineering Commandments
-Integrity by Default: 90%+ test coverage is the baseline.
-Systems over Snippets: No code is implemented without understanding its role in the larger architecture.
-No Magic: Rejecting the "vibe" for deterministic, production-grade logic.
+## Engineering Commandments
 
-ConnectLinkedIn: https://www.linkedin.com/in/niyomugabo-alain-salvator
-Portfolio: https://github.com/salainiyo/engineering-mastery-journey
+- **Integrity by Default:** 90%+ test coverage is the baseline.
+- **Systems over Snippets:** no code without understanding its role in the architecture.
+- **No Magic:** reject the "vibe" for deterministic, production-grade logic.
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/niyomugabo-alain-salvator
+- Portfolio / journey: https://github.com/salainiyo/engineering-mastery-journey
